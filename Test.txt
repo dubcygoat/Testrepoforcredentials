@@ -1,1 +1,1 @@
-For testing git credemtials
+For testing git credentials
